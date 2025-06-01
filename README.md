@@ -1,4 +1,4 @@
-# NLP Semantic Similarity
+# nlp-semantic-similarity
 
 This project computes semantic similarity between words using a bag-of-words co-occurrence model and cosine similarity.
 
@@ -7,4 +7,4 @@ This project computes semantic similarity between words using a bag-of-words co-
 - Computes word similarity using cosine distance
 - Tests similarity via a synonym multiple-choice format
 
-> Date: November 2023
+> Development period: November 2023
