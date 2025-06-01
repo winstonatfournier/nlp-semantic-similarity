@@ -6,3 +6,5 @@ This project computes semantic similarity between words using a bag-of-words co-
 - Builds semantic descriptors from raw text files
 - Computes word similarity using cosine distance
 - Tests similarity via a synonym multiple-choice format
+
+> Date: November 2023
