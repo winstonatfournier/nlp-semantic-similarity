@@ -1,2 +1,8 @@
-# nlp-semantic-similarity
-Word similarity engine using co-occurrence-based semantic descriptors and cosine similarity. Parses raw text to build word vectors and selects the closest match in synonym tests.
+# NLP Semantic Similarity
+
+This project computes semantic similarity between words using a bag-of-words co-occurrence model and cosine similarity.
+
+## Features
+- Builds semantic descriptors from raw text files
+- Computes word similarity using cosine distance
+- Tests similarity via a synonym multiple-choice format
